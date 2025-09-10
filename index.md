@@ -1,5 +1,12 @@
-# FennecAI
-Smarte KI-Bausteine für Websites & Workflows.
+---
+layout: default
+title: FennecAI
+---
 
-**Beispiele:** https://github.com/FennecAI-org/fennecai-examples  
-**Kontakt:** info@fennecai.de
+# FennecAI
+Smarte KI-Bausteine für Websites & Workflows (Chatbots, Automatisierung, Integrationen).
+
+<p>
+  <a class="btn" href="https://github.com/FennecAI-org/fennecai-examples">Beispiele ansehen</a>
+  <a class="btn" href="mailto:info@fennecai.de">Kontakt</a>
+</p>
